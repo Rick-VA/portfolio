@@ -5,7 +5,9 @@
     <meta name="viewport"
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <meta name="description" content="Portfolio website of software developer Rick van Assen"/>
+    <meta name="description" content="Portfolio website van software developer Rick van Assen"/>
+    <meta name="keywords" content="HTML, CSS, JavaScript, PHP, Laravel, Eloquent, Software, Developer, Portfolio, Landstede, MBO, Dev, Bootstrap,  ">
+    <meta name="author" content="Rick van Assen">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="icon" href="/images/favicon.png" type="image/png">
     <link rel="stylesheet" href="/css/style.css">
