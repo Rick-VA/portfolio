@@ -5,6 +5,7 @@
     <meta name="viewport"
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta name="google-site-verification" content="ClhG9bIphXiweivnO1arzH3nQ85luH12Nwzw-NFcHd4" />
     <meta name="description" content="Portfolio website van software developer Rick van Assen"/>
     <meta name="keywords" content="HTML, CSS, JavaScript, PHP, Laravel, Eloquent, Software, Developer, Portfolio, Landstede, MBO, Dev, Bootstrap,  ">
     <meta name="author" content="Rick van Assen">
