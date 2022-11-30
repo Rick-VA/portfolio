@@ -36,7 +36,7 @@
         referrerpolicy="no-referrer"
     />
 
-    <title> <Rick van Assen> </title>
+    <title> Rick van Assen - Portfolio</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 </head>
 
