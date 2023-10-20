@@ -2,7 +2,6 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta http-equiv="refresh" content="0;https://rickdev.nl">
     <meta name="viewport"
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
@@ -170,14 +169,14 @@
                     <strong>leeftijd:</strong> {{ $age }}
                 </li>
                 <li>
-                    <strong>Hobbies:</strong> Programmeren, Gamen, Formule 1, Voetbal, films kijken en uitgaan met vrienden
+                    <strong>Hobbies:</strong> Programmeren, Windsurfen, Gamen, Voetbal en uitgaan met vrienden
                 </li>
                 <li> <strong>Experiences:</strong>  PHP, Laravel, JavaScript, HTML en CSS
                 </li>
                 <a href="/images/cv van Rick Van Assen.pdf" class="btn btn-primary" download="cv van Rick van Assen">Download mijn CV</a>
             </ul>
 
-            Hallo, mijn naam is Rick van Assen, {{ $age }} jaar oud en ik volg nu de opleiding Software developer bij Landstede Zwolle. In mijn vrije tijd programmeer ik graag, speel ik games, kijk ik films en series op Netflix en ga ik graag uit met vrienden.</div>
+            Hallo, mijn naam is Rick van Assen, {{ $age }} jaar oud en ik volg nu de opleiding Software developer bij Landstede Zwolle. In mijn vrije tijd programmeer ik graag, speel ik games, doe ik windsurfen en ga ik graag uit met vrienden.</div>
 
 
 

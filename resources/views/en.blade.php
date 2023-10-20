@@ -2,7 +2,6 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta http-equiv="refresh" content="0;https://rickdev.nl">
     <meta name="viewport"
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
@@ -168,14 +167,14 @@
                     <strong>Age:</strong> {{ $age }}
                 </li>
                 <li>
-                    <strong>Hobbies:</strong> Coding, Gamen, Formule 1, Soccer, watching movies and going out with friends
+                    <strong>Hobbies:</strong> Coding, Gamen, Windsurfing, Soccer, watching movies and going out with friends
                 </li>
                 <li> <strong>Experiences:</strong>  PHP, Laravel, JavaScript, HTML en CSS
                 </li>
                 <a href="/images/cv van Rick Van Assen.pdf" class="btn btn-primary" download="cv van Rick van Assen">Download my resume</a>
             </ul>
 
-            Hello, my name is Rick van Assen, {{ $age }} years old and I am now following the Software developer training at Landstede Zwolle. In my spare time I like to code, play games and watch movies and series on Netflix and I like to go out with friends.
+            Hello, my name is Rick van Assen, {{ $age }} years old and I am now following the Software developer training at Landstede Zwolle. In my spare time I like to code, do windsurfing, play games and watch movies and series on Netflix and I like to go out with friends.
         </div>
         <div class="about-img">
             <img class="img-fluid" src="images/foto.png" alt="picture" style="border: 10px transparent; border-radius: 5%;"/>
