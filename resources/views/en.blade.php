@@ -287,8 +287,8 @@
                     <ul class="list-unstyled social-icons">
                         <li><a href="https://www.instagram.com/rick.0702/" target="_blank" class="in"><span class="icon-instagram"><i class="bi bi-instagram"></i></span></a></li>
                         <li><a href="https://www.linkedin.com/in/rick-van-assen/" target="_blank" class="li"><span class="icon-behance"><i class="bi bi-linkedin"></i></span></a></li>
-                        <li><a href="https://github.com/Ricko0702" target="_blank" class="gh"><span class="icon-dribbble"><i class="bi bi-github"></i></span></a></li>
-                        <li><a href="mailto:rickva.dev@gmail.com" class="gm"><span class="icon-play"><i class="bi bi-envelope"></i></span></a></li>
+                        <li><a href="https://github.com/Rick-VA" target="_blank" class="gh"><span class="icon-dribbble"><i class="bi bi-github"></i></span></a></li>
+                        <li><a href="mailto:rickvanassen2@gmail.com" class="gm"><span class="icon-play"><i class="bi bi-envelope"></i></span></a></li>
                     </ul>
                 </div>
             </div>
